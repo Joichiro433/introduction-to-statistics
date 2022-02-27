@@ -1,0 +1,22 @@
+.vscode/
+.DS_Store
+
+*.png
+*.csv
+*.svg
+*.pkl
+*.npy
+*.xz
+*.bz2
+
+.env
+.nohup.txt
+log/
+debug*
+settings.ini
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
